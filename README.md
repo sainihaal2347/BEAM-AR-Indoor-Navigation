@@ -79,12 +79,6 @@ BEAM-AR-Indoor-Navigation is a cutting-edge mobile application that revolutioniz
 - Place QR codes at strategic points (entrances, intersections, destinations)
 - Update the location database with QR code positions and metadata
 
-## Demo Video
-
-📹 **[Watch Demo Video](https://your-demo-video-link.com)**
-
-*Experience BEAM-AR-Indoor-Navigation in action! The demo showcases real-time AR guidance, QR code positioning, and seamless indoor navigation across multiple floors.*
-
 ## Usage Scenarios
 
 ### 🏥 Healthcare Facilities
@@ -111,19 +105,6 @@ BEAM-AR-Indoor-Navigation is a cutting-edge mobile application that revolutioniz
 - Airport terminal navigation
 - Gate and facility location
 - Real-time updates for delays or changes
-
-## Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- **Developer**: [sainihaal2347](https://github.com/sainihaal2347)
-- **Project Link**: [BEAM-AR-Indoor-Navigation](https://github.com/sainihaal2347/BEAM-AR-Indoor-Navigation)
 
 ## Acknowledgments
 
